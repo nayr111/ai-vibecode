@@ -1,0 +1,10 @@
+Monika|Welcome back! It's time to share our poems.
+📝POEM|Start the minigame
+Sayori|Oh! Let me see your poem first!
+🔒REQ:Sayori_Points>=2|Sayori|Wow! This is amazing! Your words feel so bright and warm.
+🔒REQ:Sayori_Points>=2|🎒GET|Sayori's Ribbon
+🔒REQ:Natsuki_Points>=2|Natsuki|Hphm. I guess your poem isn't totally awful. Don't get cocky.
+🔒REQ:Natsuki_Points>=2|🎒GET|Baking Recipe
+Monika|Now it's my turn to look over your composition.
+🤔CHOICE|Sayori's Ribbon|Give Ribbon to Monika|Keep the Ribbon hidden
+Monika|Anyway, let's head home for the day. Great work!
