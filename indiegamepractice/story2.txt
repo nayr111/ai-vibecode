@@ -1,0 +1,7 @@
+Sayori|Hey! I'm so glad we are hanging out after class today.
+Sayori|Wait, look! Someone dropped a weird silver key under this desk.
+🎒GET|Silver Key
+Monika|Oh, hello Pro. I see you're exploring the room.
+🔒REQ:Silver Key|Monika|Wait... what is that shiny object tucked inside your pocket?
+🔒REQ:Silver Key|Monika|Where did you get that key?! Give it to me right now!
+Monika|Anyway, let's get back to writing our poems for tomorrow.
