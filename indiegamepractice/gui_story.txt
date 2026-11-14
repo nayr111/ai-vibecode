@@ -1,0 +1,5 @@
+NORMAL|Sayori|Hey! This whole scene is loading straight from gui_story.txt!
+NORMAL|Monika|That means you can write an entire story without touching your engine code.
+CHOICE|Who should Monika read her poem to first?|Sayori|You (Pro)
+GLITCH|M̷O̷N̷I̷K̷A̷|IT DOESN'T MATTER WHO YOU CLICKED. I REWROTE THE BUTTONS.
+NORMAL|Sayori|Huh? Did the screen just shake for a second?
